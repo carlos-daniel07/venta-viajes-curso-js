@@ -2,7 +2,7 @@
 
 Una aplicación web interactiva para la exploración y simulación de venta de paquetes turísticos. Este proyecto demuestra el uso avanzado de Vanilla JavaScript para la manipulación dinámica del DOM sin necesidad de frameworks externos.
 
-🔗 **[Ver Demo en Vivo]([venta-de-viajes-curso.netlify.app])**
+🔗 **[Ver Demo en Vivo]([https://venta-de-viajes-curso.netlify.app])**
 
 ## 🚀 Características Principales
 
